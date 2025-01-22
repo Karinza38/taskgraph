@@ -1,4 +1,4 @@
-
+ 
 .. image:: https://firefox-ci-tc.services.mozilla.com/api/github/v1/repository/taskcluster/taskgraph/main/badge.svg
    :target: https://firefox-ci-tc.services.mozilla.com/api/github/v1/repository/taskcluster/taskgraph/main/latest
    :alt: Task Status
